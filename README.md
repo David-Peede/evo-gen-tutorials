@@ -6,6 +6,10 @@ Here are some tutorials on various topics in theoretical and applied evolutionar
 
 ## `parsing-vcf-files`
 
-Tutorial to get familiar with some `python` syntax and how to parse a [VCF file](https://samtools.github.io/hts-specs/VCFv4.3.pdf) by hand.
+Tutorial about some `python` syntax and how to parse a VCF file by hand.
 
-Last Update: 13JUL22
+## `calculating-summary-statistics`
+
+Tutorial about different strategies for calculating summary statistics from a VCF file by hand.
+
+Last Update: 28JUL22

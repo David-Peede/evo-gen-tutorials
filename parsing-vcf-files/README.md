@@ -1,9 +1,10 @@
 # Parsing VCF Files
 
-This directory contains two files (besides this `README.md`):
+This directory contains three files (besides this `README.md` and GitHub metadata files):
 
-1. `parsing_vcf_files.ipynb` (the tutorial file) 
-2.  `tgp_chr1_first_500_lines.vcf.gz` (the first 500 lines of the chromosome 1 VCF file from the phase 3 release of the 1000 genomes projec)
+1. `parsing_vcf_files.ipynb` (tutorial notebook) 
+2. `tgp_chr1_first_500_lines.vcf.gz` (first 500 lines of the chromosome 1 VCF file from the phase 3 release of the 1000 genomes project)
+3. `tgp_chr1_first_500_lines_biallelic_only.vcf` (output from the tutorial notebook)
 
 Here are the steps to re-create `tgp_chr1_first_500_lines.vcf.gz`.
 
