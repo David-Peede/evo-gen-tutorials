@@ -18,6 +18,10 @@ Tutorial about different strategies for calculating summary statistics from a VC
 
 
 
+## `a-brief-introduction-to-numpy`
+
+Tutorial about some `NumPy` basics—still under development (v1).
 
 
-Last Update: 28JUL22
+
+Last Update: 5SEP22
